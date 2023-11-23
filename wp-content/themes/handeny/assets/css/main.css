@@ -1,0 +1,508 @@
+@font-face {
+    font-family: 'Marcellus';
+    src: url('fonts/Marcellus-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Lora';
+    src: url('fonts/Lora-Italic-VariableFont_wght.ttf') format('truetype'),
+         url('fonts/Lora-VariableFont_wght.ttf') format('truetype'),
+         url('fonts/static/Lora-Bold.ttf') format('truetype'),
+         url('fonts/static/Lora-BoldItalic.ttf') format('truetype'),
+         url('fonts/static/Lora-Italic.ttf') format('truetype'),
+         url('fonts/static/Lora-Medium.ttf') format('truetype'),
+         url('fonts/static/Lora-MediumItalic.ttf') format('truetype'),
+         url('fonts/static/Lora-SemiBold.ttf') format('truetype'),
+         url('fonts/static/Lora-SemiBoldItalic.ttf') format('truetype'),
+         url('fonts/static/Lora-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+*{
+    font-family: 'Marcellus';
+    padding: 0;
+    margin: 0;
+}
+
+ul{
+    list-style-type: none;
+}
+
+p{
+    margin: 0;
+}
+
+a{
+    text-decoration: none;
+    color:black;
+}
+
+a:focus{
+    color:black;
+}
+
+.flex-nav{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 0 15%;
+    background-color: black;
+}
+
+.custom-logo-link{
+    padding: 30px 15px; 
+}
+
+.navbar-nav{
+    display: flex;
+    text-transform: uppercase;
+}
+
+.navbar-nav li{
+    padding: 30px 15px; 
+}
+
+.navbar-nav li a{
+    color: #FFFFFF;
+    font-size: 14px; 
+    font-weight: 400;
+    line-height: 10px;
+}
+
+#block-header-title-and-image{
+    width: 100%;
+    padding: 0 20%;
+    height: 750px;
+    background-color: black;
+}
+
+#block-header-title-and-image span{
+    opacity: 0;
+}
+
+#header-subtitle em{
+    font-family: 'Lora';
+    line-height: 25px;
+}
+
+#header-title{
+    line-height: 60px;
+}
+
+#header-description{
+    padding-top: 10px;
+    width: 36%;
+    font-family: 'Lora-Regular';
+    font-size: 14px;
+}
+
+#main-first-block{
+    background-color: #F4F4F4;
+    padding: 100px 15%;
+}
+
+#main-first-block-subtitle{
+    color: #C3935B;
+    font-family: "Lora";
+    font-weight: 500;
+    font-size: 22px;
+    padding-bottom: 10px;
+}
+
+#main-first-block-title-first-part{
+    color: var(--Dark, #242424);
+    font-family: Marcellus;
+    font-size: 62px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 75px;
+    padding-bottom: 10px;
+}
+
+#main-first-block-title-second-part{
+    color: var(--Dark, #242424);
+    font-family: Marcellus;
+    font-size: 45px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 55px;
+    padding-bottom: 10px;
+}
+
+#main-first-block-text{
+    color: var(--Dark-Light, #777);
+    font-family: 'Lora-Regular';
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 25px;
+    padding-bottom: 30px;
+}
+
+.wp-block-button{
+    -ms-user-select: none; 
+	-moz-user-select: none; 
+	-webkit-user-select: none; 
+	user-select: none; 
+}
+
+.wp-block-button:active {
+    transform: translate(0em, 0.10em);
+}
+
+.wp-block-button:active::before {
+    transform: translate3d(0, 0, 0.20em);
+}
+
+#main-first-block-button-first a{
+    border-radius: 0;
+    background: var(--Dark-Light, #777);
+    padding: 10px 15px;
+    color: #FFF;
+    font-family: 'Lora-Regular';
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 25px;
+    text-transform: uppercase;
+    margin-right: 5px;
+}
+
+#main-first-block-button-first a:hover{
+    background: #000;
+    transform: translate(0.10em, 0.10em);
+}
+
+#main-first-block-button-second a{
+    border-radius: 0;
+    border: 1px solid var(--Grey, #DFDFDF);
+    color: var(--Dark, #242424);
+    font-family: 'Lora-Regular';
+    font-size: 14px;
+    background-color: transparent;
+    font-weight: 500;
+    line-height: 25px;
+    text-transform: uppercase;
+}
+
+#main-first-block-button-second a:hover{
+    background: var(--Grey, #DFDFDF);
+    transform: translate(0.10em, 0.10em);
+}
+
+#main-first-block-button-second a:active {
+    border: 1px solid var(--Dark, #242424);
+    background: var(--Dark-Light, #777);
+}
+
+#main-second-block{
+    padding: 0 15% 70px;
+    background-color: #F4F4F4;
+}
+
+#main-second-block-title{
+    color: var(--Dark, #242424);
+    text-align: center;
+    font-family: Marcellus;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 40px;
+    padding-bottom: 10px;
+}
+
+#left-block-first-slider span{
+    opacity: 0;
+}
+
+#left-block-first-slider{
+    width: 100%;
+    margin-right: 75px;
+}
+
+#block-first-slider{
+    padding-bottom: 30px;
+}
+
+.slick-slide {
+    opacity: 0 !important;
+}
+
+.slick-slide.slick-active {
+    opacity: 1 !important;
+}
+
+#main-third-block{
+    background-color: #F4F4F4;
+    padding: 0 15% 100px;
+}
+
+#main-third-block .wp-block-media-text__content{
+    margin-left: 80px;
+    padding: 0;
+}
+
+#main-third-block #main-first-block-title-second-part{
+    padding-bottom: 40px;
+}
+
+#main-fourth-block{
+    background-color: #F4F4F4;
+    padding: 0 15% 100px;
+}
+
+#main-fourth-block #main-first-block-title-first-part span {
+    color: #C3935B;
+}
+
+#main-fourth-block .wp-block-media-text__content{
+    padding: 0;
+    margin-right: 15px;
+}
+
+#main-fourth-list-text{
+    color: var(--Dark-Light, #777);
+    font-family: 'Lora-Regular';
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 25px;
+    margin: 5px 0;
+}
+
+#main-fourth-list{
+    margin-left: 30px;
+}
+
+#main-fourth-block-text{
+    color: var(--Dark-Light, #777);
+    font-family: 'Lora-Regular';
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 25px;
+    padding-bottom: 15px;
+}
+
+#main-fourth-block #main-first-block-button-second,
+#main-fourth-block #main-first-block-button-first{
+    padding-top: 40px;
+}
+
+#main-fifth-block{
+    background-color: #F4F4F4;
+    padding: 0 15% 100px;
+}
+
+#main-fifth-block #left-block-first-slider{
+    padding: 0;
+}
+
+#main-fifth-block-title-offer{
+    color: var(--Dark, #242424);
+    font-family: Lora;
+    font-size: 22px;
+    font-style: italic;
+    font-weight: 500;
+    line-height: 25px;
+    margin-left: 45% !important;
+}
+
+#main-fifth-block-product-offer{
+    width: 100%;
+    margin: 20px 0 0 45% !important;
+    padding: 0 !important;
+}
+
+#main-fifth-block-product-offer h2{
+    color: var(--Dark, #242424);
+    font-family: Marcellus;
+    font-size: 54px !important;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 65px;
+}
+
+#main-fifth-block-desc-offer{
+    color: var(--Dark, #242424);
+    font-family: Marcellus;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 25px;
+    text-transform: uppercase;
+    margin-left: 45% !important;
+}
+
+.wp-block-cover .wp-block-cover__image-background{
+    height: auto !important;
+}
+#main-fifth-block #main-first-block-button-first{
+    margin: 40px 0 0 45% !important;
+}
+
+#main-fifth-block-title-products{
+    color: #000;
+    font-family: Marcellus;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 25px;
+    text-transform: uppercase;
+    padding-bottom: 20px;
+}
+
+#main-fifth-block .wp-block-group.is-nowrap.is-layout-flex.wp-container-core-group-layout-15.wp-block-group-is-layout-flex div{
+    padding: 0 !important;
+    width: 100%;
+}
+
+#main-fifth-block-products ul:first-child{
+    margin-right: 45px !important;
+}
+
+#main-fifth-block-products ul li{
+    border-bottom: 1px solid var(--Grey, #DFDFDF);
+    padding: 10px 0;
+}
+
+#main-fifth-block-products ul li div{
+    margin: 0;
+}
+
+#main-fifth-block-products ul li div h2{
+    color: var(--Dark, #242424);
+    font-family: Marcellus;
+    font-size: 14px !important;
+    font-style: normal !important;
+    font-weight: 400 !important;
+    line-height: 16px !important;
+    padding-bottom: 10px !important;
+}
+
+.woocommerce-Price-amount{
+    color: var(--Gold, #C3935B);
+    font-family: Lora;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 16px;
+}
+
+#main-sixth-block{
+    background-color: #F4F4F4;
+    padding: 0 15%;
+}
+
+#custom-footer{
+    background-color: #EAEAEA;
+    padding: 60px 15% 70px;
+}
+
+#footer-first-part{
+    max-width: 25%;
+}
+
+#footer-first-part div figure img{
+    width: auto !important;
+    vertical-align: middle;
+}
+
+#footer-first-part-decs{
+    color: var(--Dark-Light, #777);
+    font-family: 'Lora-Regular';
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 20px;
+    padding: 15px 0 30px;
+}
+
+#footer-first-part div p{
+    color: var(--Dark-Light, #777);
+    font-family: 'Lora-Regular';
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 20px;
+}
+
+#footer-first-part-contacts{
+    padding-bottom: 10px;
+}
+
+#footer-second-part{
+    min-width: 50%;
+    margin-right: 20px;
+}
+
+#footer-second-part div div p,
+#footer-third-part div div p,
+#footer-fourth-part div div p{
+    color: #000;
+    font-family: Marcellus;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 25px;
+    text-transform: uppercase;
+    padding-bottom: 5px;
+    padding-top: 0 !important
+}
+
+#footer-second-part ul li{
+    display: grid;
+    grid-template-areas: "first second" "first third";
+    padding: 15px 0;
+}
+
+#footer-second-part ul li:first-child{
+    border-bottom: 1px solid var(--Grey, #DFDFDF);
+}
+
+#footer-second-part ul li div{
+    grid-area: first;
+}
+
+#footer-second-part ul li a{
+    grid-area: second;
+    color: var(--Dark, #242424);
+    font-family: Marcellus;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 20px;
+    text-transform: uppercase;
+    padding-left: 15px;
+}
+
+#footer-second-part ul li time{
+    grid-area: third;
+    color: var(--Dark-Light, #777);
+    font-family: 'Lora-Regular';
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 14px;
+    padding-left: 15px;
+}
+
+#footer-second-part ul li div img{
+    max-width: 75px;
+    max-height: 65px;
+    height: auto;
+    width: auto;
+}
+
+#footer-third-part p,
+#footer-fourth-part p{
+    color: var(--Dark-Light, #777);
+    font-family: 'Lora-Regular';
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 20px;
+    padding: 5px 0;
+}
