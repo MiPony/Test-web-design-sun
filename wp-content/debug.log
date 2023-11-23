@@ -1,0 +1,335 @@
+[15-Nov-2023 12:21:23 UTC] PHP Notice:  Trying to get property 'title' of non-object in W:\domains\test-task-web-design-sun\wp-includes\class-wp-customize-widgets.php on line 905
+[15-Nov-2023 12:26:44 UTC] PHP Parse error:  syntax error, unexpected '}' in W:\domains\test-task-web-design-sun\wp-content\themes\handeny\functions.php on line 16
+[15-Nov-2023 12:26:44 UTC] PHP Notice:  Trying to access array offset on value of type bool in W:\domains\test-task-web-design-sun\wp-includes\class-wp-recovery-mode-email-service.php on line 367
+[15-Nov-2023 12:26:44 UTC] PHP Notice:  Trying to access array offset on value of type bool in W:\domains\test-task-web-design-sun\wp-includes\class-wp-recovery-mode-email-service.php on line 368
+[15-Nov-2023 12:27:01 UTC] PHP Notice:  Trying to get property 'title' of non-object in W:\domains\test-task-web-design-sun\wp-includes\class-wp-customize-widgets.php on line 905
+[15-Nov-2023 12:28:50 UTC] PHP Notice:  Trying to get property 'title' of non-object in W:\domains\test-task-web-design-sun\wp-includes\class-wp-customize-widgets.php on line 905
+[15-Nov-2023 12:34:56 UTC] PHP Notice:  Trying to get property 'title' of non-object in W:\domains\test-task-web-design-sun\wp-includes\class-wp-customize-widgets.php on line 905
+[15-Nov-2023 12:39:00 UTC] PHP Notice:  Trying to get property 'title' of non-object in W:\domains\test-task-web-design-sun\wp-includes\class-wp-customize-widgets.php on line 905
+[15-Nov-2023 12:43:01 UTC] PHP Notice:  Trying to get property 'title' of non-object in W:\domains\test-task-web-design-sun\wp-includes\class-wp-customize-widgets.php on line 905
+[15-Nov-2023 12:47:17 UTC] PHP Fatal error:  Cannot redeclare the_custom_logo() (previously declared in W:\domains\test-task-web-design-sun\wp-includes\general-template.php:1152) in W:\domains\test-task-web-design-sun\wp-content\themes\handeny\header.php on line 10
+[15-Nov-2023 12:47:30 UTC] PHP Notice:  Undefined variable: blog_id in W:\domains\test-task-web-design-sun\wp-content\themes\handeny\header.php on line 10
+[15-Nov-2023 12:48:26 UTC] PHP Notice:  Trying to get property 'title' of non-object in W:\domains\test-task-web-design-sun\wp-includes\class-wp-customize-widgets.php on line 905
+[15-Nov-2023 12:50:15 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in W:\domains\test-task-web-design-sun\wp-content\themes\handeny\header.php on line 18
+[15-Nov-2023 12:56:41 UTC] PHP Notice:  Trying to get property 'title' of non-object in W:\domains\test-task-web-design-sun\wp-includes\class-wp-customize-widgets.php on line 905
+[15-Nov-2023 12:58:57 UTC] PHP Notice:  Trying to get property 'title' of non-object in W:\domains\test-task-web-design-sun\wp-includes\class-wp-customize-widgets.php on line 905
+[15-Nov-2023 12:59:42 UTC] PHP Notice:  Trying to get property 'title' of non-object in W:\domains\test-task-web-design-sun\wp-includes\class-wp-customize-widgets.php on line 905
+[15-Nov-2023 13:00:21 UTC] PHP Notice:  Trying to get property 'title' of non-object in W:\domains\test-task-web-design-sun\wp-includes\class-wp-customize-widgets.php on line 905
+[15-Nov-2023 14:42:40 UTC] PHP Notice:  Undefined variable: ID in W:\domains\test-task-web-design-sun\wp-content\themes\handeny\header.php on line 8
+[15-Nov-2023 14:42:40 UTC] PHP Notice:  Array to string conversion in W:\domains\test-task-web-design-sun\wp-content\themes\handeny\header.php on line 8
+[15-Nov-2023 14:55:55 UTC] PHP Notice:  Trying to get property 'title' of non-object in W:\domains\test-task-web-design-sun\wp-includes\class-wp-customize-widgets.php on line 905
+[15-Nov-2023 14:56:51 UTC] PHP Notice:  Trying to get property 'title' of non-object in W:\domains\test-task-web-design-sun\wp-includes\class-wp-customize-widgets.php on line 905
+[15-Nov-2023 14:58:13 UTC] PHP Notice:  Trying to get property 'title' of non-object in W:\domains\test-task-web-design-sun\wp-includes\class-wp-customize-widgets.php on line 905
+[15-Nov-2023 14:58:35 UTC] PHP Notice:  Trying to get property 'title' of non-object in W:\domains\test-task-web-design-sun\wp-includes\class-wp-customize-widgets.php on line 905
+[20-Nov-2023 16:04:05 UTC] PHP Notice:  Undefined offset: 1 in W:\domains\test-task-web-design-sun\wp-content\themes\handeny\front-page.php on line 41
+[20-Nov-2023 16:04:37 UTC] PHP Notice:  Undefined variable: content in W:\domains\test-task-web-design-sun\wp-content\themes\handeny\front-page.php on line 49
+[20-Nov-2023 16:04:37 UTC] PHP Notice:  Trying to access array offset on value of type null in W:\domains\test-task-web-design-sun\wp-content\themes\handeny\front-page.php on line 49
+[20-Nov-2023 16:04:37 UTC] PHP Notice:  Undefined variable: href_rss_feed in W:\domains\test-task-web-design-sun\wp-content\themes\handeny\front-page.php on line 51
+[20-Nov-2023 16:04:55 UTC] PHP Notice:  Undefined variable: href_rss_feed in W:\domains\test-task-web-design-sun\wp-content\themes\handeny\front-page.php on line 51
+[20-Nov-2023 16:05:32 UTC] PHP Notice:  Undefined variable: href_rss_feed in W:\domains\test-task-web-design-sun\wp-content\themes\handeny\front-page.php on line 63
+[20-Nov-2023 16:05:46 UTC] PHP Notice:  Undefined variable: href_rss_feed in W:\domains\test-task-web-design-sun\wp-content\themes\handeny\front-page.php on line 63
+[20-Nov-2023 17:24:45 UTC] PHP Fatal error:  Cannot redeclare products_sliders_func() (previously declared in W:\domains\test-task-web-design-sun\wp-content\themes\handeny\functions.php:50) in W:\domains\test-task-web-design-sun\wp-content\themes\handeny\front-page.php on line 5
+[20-Nov-2023 17:44:39 UTC] PHP Notice:  Array to string conversion in W:\domains\test-task-web-design-sun\wp-includes\shortcodes.php on line 433
+[20-Nov-2023 17:44:44 UTC] PHP Notice:  Array to string conversion in W:\domains\test-task-web-design-sun\wp-includes\shortcodes.php on line 433
+[20-Nov-2023 17:44:47 UTC] PHP Notice:  Array to string conversion in W:\domains\test-task-web-design-sun\wp-includes\shortcodes.php on line 433
+[20-Nov-2023 17:46:19 UTC] PHP Notice:  Array to string conversion in W:\domains\test-task-web-design-sun\wp-includes\shortcodes.php on line 433
+[20-Nov-2023 17:46:36 UTC] PHP Parse error:  syntax error, unexpected ',', expecting ';' in W:\domains\test-task-web-design-sun\wp-content\themes\handeny\functions.php on line 59
+[20-Nov-2023 17:46:36 UTC] PHP Parse error:  syntax error, unexpected ',', expecting ';' in W:\domains\test-task-web-design-sun\wp-content\themes\handeny\functions.php on line 59
+[20-Nov-2023 19:03:12 UTC] PHP Notice:  Trying to access array offset on value of type null in W:\domains\test-task-web-design-sun\wp-content\themes\handeny\functions.php on line 53
+[20-Nov-2023 19:03:17 UTC] PHP Notice:  Trying to access array offset on value of type null in W:\domains\test-task-web-design-sun\wp-content\themes\handeny\functions.php on line 53
+[20-Nov-2023 19:03:26 UTC] PHP Notice:  Trying to access array offset on value of type null in W:\domains\test-task-web-design-sun\wp-content\themes\handeny\functions.php on line 53
+[20-Nov-2023 19:04:11 UTC] PHP Notice:  Trying to access array offset on value of type null in W:\domains\test-task-web-design-sun\wp-content\themes\handeny\functions.php on line 53
+[20-Nov-2023 19:04:13 UTC] PHP Notice:  Trying to access array offset on value of type null in W:\domains\test-task-web-design-sun\wp-content\themes\handeny\functions.php on line 53
+[20-Nov-2023 19:04:15 UTC] PHP Notice:  Array to string conversion in W:\domains\test-task-web-design-sun\wp-includes\shortcodes.php on line 433
+[20-Nov-2023 19:04:15 UTC] PHP Notice:  Array to string conversion in W:\domains\test-task-web-design-sun\wp-includes\shortcodes.php on line 433
+[20-Nov-2023 19:04:36 UTC] PHP Notice:  Array to string conversion in W:\domains\test-task-web-design-sun\wp-includes\shortcodes.php on line 433
+[20-Nov-2023 19:05:23 UTC] PHP Notice:  Array to string conversion in W:\domains\test-task-web-design-sun\wp-includes\shortcodes.php on line 433
+[20-Nov-2023 19:05:39 UTC] PHP Notice:  Array to string conversion in W:\domains\test-task-web-design-sun\wp-includes\shortcodes.php on line 433
+[20-Nov-2023 19:05:46 UTC] PHP Notice:  Undefined variable: params in W:\domains\test-task-web-design-sun\wp-content\themes\handeny\functions.php on line 53
+[20-Nov-2023 19:05:46 UTC] PHP Notice:  Trying to access array offset on value of type null in W:\domains\test-task-web-design-sun\wp-content\themes\handeny\functions.php on line 53
+[20-Nov-2023 19:05:46 UTC] PHP Notice:  Undefined variable: params in W:\domains\test-task-web-design-sun\wp-content\themes\handeny\functions.php on line 55
+[20-Nov-2023 19:05:46 UTC] PHP Notice:  Trying to access array offset on value of type null in W:\domains\test-task-web-design-sun\wp-content\themes\handeny\functions.php on line 55
+[20-Nov-2023 19:06:44 UTC] PHP Notice:  Array to string conversion in W:\domains\test-task-web-design-sun\wp-content\themes\handeny\functions.php on line 58
+[20-Nov-2023 19:22:22 UTC] PHP Notice:  Array to string conversion in W:\domains\test-task-web-design-sun\wp-content\themes\handeny\functions.php on line 58
+[21-Nov-2023 10:32:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_field() in W:\domains\test-task-web-design-sun\wp-content\themes\handeny\functions.php:53
+Stack trace:
+#0 W:\domains\test-task-web-design-sun\wp-includes\shortcodes.php(433): products_sliders_func()
+#1 [internal function]: do_shortcode_tag()
+#2 W:\domains\test-task-web-design-sun\wp-includes\shortcodes.php(273): preg_replace_callback()
+#3 W:\domains\test-task-web-design-sun\wp-includes\class-wp-hook.php(324): do_shortcode()
+#4 W:\domains\test-task-web-design-sun\wp-includes\plugin.php(205): WP_Hook->apply_filters()
+#5 W:\domains\test-task-web-design-sun\wp-includes\post-template.php(256): apply_filters()
+#6 W:\domains\test-task-web-design-sun\wp-content\themes\handeny\front-page.php(3): the_content()
+#7 W:\domains\test-task-web-design-sun\wp-includes\template-loader.php(106): include('W:\\domains\\test...')
+#8 W:\domains\test-task-web-design-sun\wp-blog-header.php(19): require_once('W:\\domains\\test...')
+#9 W:\domains\test-task-web-design-sun\index.php(17): requ in W:\domains\test-task-web-design-sun\wp-content\themes\handeny\functions.php on line 53
+[21-Nov-2023 10:32:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_field() in W:\domains\test-task-web-design-sun\wp-content\themes\handeny\functions.php:53
+Stack trace:
+#0 W:\domains\test-task-web-design-sun\wp-includes\shortcodes.php(433): products_sliders_func()
+#1 [internal function]: do_shortcode_tag()
+#2 W:\domains\test-task-web-design-sun\wp-includes\shortcodes.php(273): preg_replace_callback()
+#3 W:\domains\test-task-web-design-sun\wp-includes\class-wp-hook.php(324): do_shortcode()
+#4 W:\domains\test-task-web-design-sun\wp-includes\plugin.php(205): WP_Hook->apply_filters()
+#5 W:\domains\test-task-web-design-sun\wp-includes\rest-api\endpoints\class-wp-rest-revisions-controller.php(620): apply_filters()
+#6 W:\domains\test-task-web-design-sun\wp-includes\rest-api\endpoints\class-wp-rest-autosaves-controller.php(451): WP_REST_Revisions_Controller->prepare_item_for_response()
+#7 W:\domains\test-task-web-design-sun\wp-includes\rest-api\endpoints\class-wp-rest-autosaves-controller.php(253): WP_REST_Autosaves_Controller->prepare in W:\domains\test-task-web-design-sun\wp-content\themes\handeny\functions.php on line 53
+[21-Nov-2023 14:13:05 UTC] PHP Notice:  Function map_meta_cap was called incorrectly. The post type sp_wps_shortcodes is not registered, so it may not be reliable to check the capability edit_post against a post of that type. Please see <a>Debugging in WordPress</a> for more information. (This message was added in version 4.4.0.) in W:\domains\test-task-web-design-sun\wp-includes\functions.php on line 6031
+[21-Nov-2023 21:52:38 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function title() in W:\domains\test-task-web-design-sun\wp-content\themes\handeny\single-post.php:3
+Stack trace:
+#0 W:\domains\test-task-web-design-sun\wp-includes\template-loader.php(106): include()
+#1 W:\domains\test-task-web-design-sun\wp-blog-header.php(19): require_once('W:\\domains\\test...')
+#2 W:\domains\test-task-web-design-sun\index.php(17): require('W:\\domains\\test...')
+#3 {main}
+  thrown in W:\domains\test-task-web-design-sun\wp-content\themes\handeny\single-post.php on line 3
+[21-Nov-2023 21:52:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_title() in W:\domains\test-task-web-design-sun\wp-content\themes\handeny\single-post.php:3
+Stack trace:
+#0 W:\domains\test-task-web-design-sun\wp-includes\template-loader.php(106): include()
+#1 W:\domains\test-task-web-design-sun\wp-blog-header.php(19): require_once('W:\\domains\\test...')
+#2 W:\domains\test-task-web-design-sun\index.php(17): require('W:\\domains\\test...')
+#3 {main}
+  thrown in W:\domains\test-task-web-design-sun\wp-content\themes\handeny\single-post.php on line 3
+[21-Nov-2023 22:26:59 UTC] PHP Deprecated:  File Theme without sidebar.php is deprecated since version 3.0.0 with no alternative available. Please include a sidebar.php template in your theme. in W:\domains\test-task-web-design-sun\wp-includes\functions.php on line 6031
+[21-Nov-2023 22:27:15 UTC] PHP Deprecated:  File Theme without sidebar.php is deprecated since version 3.0.0 with no alternative available. Please include a sidebar.php template in your theme. in W:\domains\test-task-web-design-sun\wp-includes\functions.php on line 6031
+[21-Nov-2023 22:27:18 UTC] PHP Deprecated:  File Theme without sidebar.php is deprecated since version 3.0.0 with no alternative available. Please include a sidebar.php template in your theme. in W:\domains\test-task-web-design-sun\wp-includes\functions.php on line 6031
+[21-Nov-2023 22:27:26 UTC] PHP Deprecated:  File Theme without sidebar.php is deprecated since version 3.0.0 with no alternative available. Please include a sidebar.php template in your theme. in W:\domains\test-task-web-design-sun\wp-includes\functions.php on line 6031
+[21-Nov-2023 22:27:28 UTC] PHP Deprecated:  File Theme without sidebar.php is deprecated since version 3.0.0 with no alternative available. Please include a sidebar.php template in your theme. in W:\domains\test-task-web-design-sun\wp-includes\functions.php on line 6031
+[21-Nov-2023 22:27:39 UTC] PHP Deprecated:  File Theme without sidebar.php is deprecated since version 3.0.0 with no alternative available. Please include a sidebar.php template in your theme. in W:\domains\test-task-web-design-sun\wp-includes\functions.php on line 6031
+[21-Nov-2023 22:27:41 UTC] PHP Deprecated:  File Theme without sidebar.php is deprecated since version 3.0.0 with no alternative available. Please include a sidebar.php template in your theme. in W:\domains\test-task-web-design-sun\wp-includes\functions.php on line 6031
+[21-Nov-2023 22:28:09 UTC] PHP Deprecated:  File Theme without sidebar.php is deprecated since version 3.0.0 with no alternative available. Please include a sidebar.php template in your theme. in W:\domains\test-task-web-design-sun\wp-includes\functions.php on line 6031
+[21-Nov-2023 22:28:12 UTC] PHP Deprecated:  File Theme without sidebar.php is deprecated since version 3.0.0 with no alternative available. Please include a sidebar.php template in your theme. in W:\domains\test-task-web-design-sun\wp-includes\functions.php on line 6031
+[21-Nov-2023 22:28:37 UTC] PHP Deprecated:  File Theme without sidebar.php is deprecated since version 3.0.0 with no alternative available. Please include a sidebar.php template in your theme. in W:\domains\test-task-web-design-sun\wp-includes\functions.php on line 6031
+[21-Nov-2023 22:28:59 UTC] PHP Deprecated:  File Theme without sidebar.php is deprecated since version 3.0.0 with no alternative available. Please include a sidebar.php template in your theme. in W:\domains\test-task-web-design-sun\wp-includes\functions.php on line 6031
+[21-Nov-2023 22:29:13 UTC] PHP Deprecated:  File Theme without sidebar.php is deprecated since version 3.0.0 with no alternative available. Please include a sidebar.php template in your theme. in W:\domains\test-task-web-design-sun\wp-includes\functions.php on line 6031
+[21-Nov-2023 22:29:19 UTC] PHP Deprecated:  File Theme without sidebar.php is deprecated since version 3.0.0 with no alternative available. Please include a sidebar.php template in your theme. in W:\domains\test-task-web-design-sun\wp-includes\functions.php on line 6031
+[21-Nov-2023 22:29:21 UTC] PHP Deprecated:  File Theme without sidebar.php is deprecated since version 3.0.0 with no alternative available. Please include a sidebar.php template in your theme. in W:\domains\test-task-web-design-sun\wp-includes\functions.php on line 6031
+[21-Nov-2023 22:30:20 UTC] PHP Deprecated:  File Theme without sidebar.php is deprecated since version 3.0.0 with no alternative available. Please include a sidebar.php template in your theme. in W:\domains\test-task-web-design-sun\wp-includes\functions.php on line 6031
+[21-Nov-2023 22:31:19 UTC] PHP Deprecated:  File Theme without sidebar.php is deprecated since version 3.0.0 with no alternative available. Please include a sidebar.php template in your theme. in W:\domains\test-task-web-design-sun\wp-includes\functions.php on line 6031
+[21-Nov-2023 22:31:41 UTC] PHP Deprecated:  File Theme without sidebar.php is deprecated since version 3.0.0 with no alternative available. Please include a sidebar.php template in your theme. in W:\domains\test-task-web-design-sun\wp-includes\functions.php on line 6031
+[21-Nov-2023 22:31:48 UTC] PHP Deprecated:  File Theme without sidebar.php is deprecated since version 3.0.0 with no alternative available. Please include a sidebar.php template in your theme. in W:\domains\test-task-web-design-sun\wp-includes\functions.php on line 6031
+[21-Nov-2023 22:32:04 UTC] PHP Deprecated:  File Theme without sidebar.php is deprecated since version 3.0.0 with no alternative available. Please include a sidebar.php template in your theme. in W:\domains\test-task-web-design-sun\wp-includes\functions.php on line 6031
+[21-Nov-2023 22:32:06 UTC] PHP Deprecated:  File Theme without sidebar.php is deprecated since version 3.0.0 with no alternative available. Please include a sidebar.php template in your theme. in W:\domains\test-task-web-design-sun\wp-includes\functions.php on line 6031
+[21-Nov-2023 22:47:08 UTC] PHP Deprecated:  File Theme without sidebar.php is deprecated since version 3.0.0 with no alternative available. Please include a sidebar.php template in your theme. in W:\domains\test-task-web-design-sun\wp-includes\functions.php on line 6031
+[21-Nov-2023 22:48:42 UTC] PHP Deprecated:  File Theme without sidebar.php is deprecated since version 3.0.0 with no alternative available. Please include a sidebar.php template in your theme. in W:\domains\test-task-web-design-sun\wp-includes\functions.php on line 6031
+[21-Nov-2023 23:03:19 UTC] PHP Notice:  Trying to get property 'title' of non-object in W:\domains\test-task-web-design-sun\wp-includes\class-wp-customize-widgets.php on line 905
+[21-Nov-2023 23:03:32 UTC] PHP Deprecated:  File Theme without sidebar.php is deprecated since version 3.0.0 with no alternative available. Please include a sidebar.php template in your theme. in W:\domains\test-task-web-design-sun\wp-includes\functions.php on line 6031
+[21-Nov-2023 23:03:54 UTC] PHP Notice:  Trying to get property 'title' of non-object in W:\domains\test-task-web-design-sun\wp-includes\class-wp-customize-widgets.php on line 905
+[21-Nov-2023 23:04:31 UTC] PHP Deprecated:  File Theme without sidebar.php is deprecated since version 3.0.0 with no alternative available. Please include a sidebar.php template in your theme. in W:\domains\test-task-web-design-sun\wp-includes\functions.php on line 6031
+[21-Nov-2023 23:05:49 UTC] PHP Deprecated:  File Theme without sidebar.php is deprecated since version 3.0.0 with no alternative available. Please include a sidebar.php template in your theme. in W:\domains\test-task-web-design-sun\wp-includes\functions.php on line 6031
+[21-Nov-2023 23:07:52 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function wp_get_attachment_image(), 0 passed in W:\domains\test-task-web-design-sun\wp-content\themes\handeny\woocommerce\single-product.php on line 4 and at least 1 expected in W:\domains\test-task-web-design-sun\wp-includes\media.php:1047
+Stack trace:
+#0 W:\domains\test-task-web-design-sun\wp-content\themes\handeny\woocommerce\single-product.php(4): wp_get_attachment_image()
+#1 W:\domains\test-task-web-design-sun\wp-includes\template-loader.php(106): include('W:\\domains\\test...')
+#2 W:\domains\test-task-web-design-sun\wp-blog-header.php(19): require_once('W:\\domains\\test...')
+#3 W:\domains\test-task-web-design-sun\index.php(17): require('W:\\domains\\test...')
+#4 {main}
+  thrown in W:\domains\test-task-web-design-sun\wp-includes\media.php on line 1047
+[21-Nov-2023 23:09:47 UTC] PHP Notice:  Trying to get property 'ID' of non-object in W:\domains\test-task-web-design-sun\wp-content\themes\handeny\woocommerce\single-product.php on line 6
+[21-Nov-2023 23:10:05 UTC] PHP Notice:  Trying to get property 'ID' of non-object in W:\domains\test-task-web-design-sun\wp-content\themes\handeny\woocommerce\single-product.php on line 7
+[21-Nov-2023 23:10:52 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function wc_get_products(), 0 passed in W:\domains\test-task-web-design-sun\wp-content\themes\handeny\woocommerce\single-product.php on line 5 and exactly 1 expected in W:\domains\test-task-web-design-sun\wp-content\plugins\woocommerce\includes\wc-product-functions.php:31
+Stack trace:
+#0 W:\domains\test-task-web-design-sun\wp-content\themes\handeny\woocommerce\single-product.php(5): wc_get_products()
+#1 W:\domains\test-task-web-design-sun\wp-includes\template-loader.php(106): include('W:\\domains\\test...')
+#2 W:\domains\test-task-web-design-sun\wp-blog-header.php(19): require_once('W:\\domains\\test...')
+#3 W:\domains\test-task-web-design-sun\index.php(17): require('W:\\domains\\test...')
+#4 {main}
+  thrown in W:\domains\test-task-web-design-sun\wp-content\plugins\woocommerce\includes\wc-product-functions.php on line 31
+[21-Nov-2023 23:11:19 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_image() on string in W:\domains\test-task-web-design-sun\wp-content\plugins\woocommerce\includes\wc-template-functions.php:1449
+Stack trace:
+#0 W:\domains\test-task-web-design-sun\wp-content\themes\handeny\woocommerce\single-product.php(5): woocommerce_get_product_thumbnail()
+#1 W:\domains\test-task-web-design-sun\wp-includes\template-loader.php(106): include('W:\\domains\\test...')
+#2 W:\domains\test-task-web-design-sun\wp-blog-header.php(19): require_once('W:\\domains\\test...')
+#3 W:\domains\test-task-web-design-sun\index.php(17): require('W:\\domains\\test...')
+#4 {main}
+  thrown in W:\domains\test-task-web-design-sun\wp-content\plugins\woocommerce\includes\wc-template-functions.php on line 1449
+[21-Nov-2023 23:11:32 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_image() on string in W:\domains\test-task-web-design-sun\wp-content\plugins\woocommerce\includes\wc-template-functions.php:1449
+Stack trace:
+#0 W:\domains\test-task-web-design-sun\wp-content\themes\handeny\woocommerce\single-product.php(5): woocommerce_get_product_thumbnail()
+#1 W:\domains\test-task-web-design-sun\wp-includes\template-loader.php(106): include('W:\\domains\\test...')
+#2 W:\domains\test-task-web-design-sun\wp-blog-header.php(19): require_once('W:\\domains\\test...')
+#3 W:\domains\test-task-web-design-sun\index.php(17): require('W:\\domains\\test...')
+#4 {main}
+  thrown in W:\domains\test-task-web-design-sun\wp-content\plugins\woocommerce\includes\wc-template-functions.php on line 1449
+[21-Nov-2023 23:12:17 UTC] PHP Notice:  Undefined offset: 0 in W:\domains\test-task-web-design-sun\wp-includes\class-wp-query.php on line 3643
+[21-Nov-2023 23:14:06 UTC] PHP Notice:  Undefined offset: 9 in W:\domains\test-task-web-design-sun\wp-includes\class-wp-query.php on line 3643
+[21-Nov-2023 23:15:31 UTC] PHP Notice:  Trying to get property 'ID' of non-object in W:\domains\test-task-web-design-sun\wp-content\themes\handeny\woocommerce\single-product.php on line 10
+[21-Nov-2023 23:15:47 UTC] PHP Notice:  Undefined index: ID in W:\domains\test-task-web-design-sun\wp-content\themes\handeny\woocommerce\single-product.php on line 10
+[21-Nov-2023 23:17:02 UTC] PHP Notice:  Trying to get property 'ID' of non-object in W:\domains\test-task-web-design-sun\wp-content\themes\handeny\woocommerce\single-product.php on line 11
+[21-Nov-2023 23:19:28 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_image_id() on string in W:\domains\test-task-web-design-sun\wp-content\themes\handeny\woocommerce\single-product.php:8
+Stack trace:
+#0 W:\domains\test-task-web-design-sun\wp-includes\template-loader.php(106): include()
+#1 W:\domains\test-task-web-design-sun\wp-blog-header.php(19): require_once('W:\\domains\\test...')
+#2 W:\domains\test-task-web-design-sun\index.php(17): require('W:\\domains\\test...')
+#3 {main}
+  thrown in W:\domains\test-task-web-design-sun\wp-content\themes\handeny\woocommerce\single-product.php on line 8
+[21-Nov-2023 23:20:34 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_image_id() on string in W:\domains\test-task-web-design-sun\wp-content\themes\handeny\woocommerce\single-product.php:9
+Stack trace:
+#0 W:\domains\test-task-web-design-sun\wp-includes\template-loader.php(106): include()
+#1 W:\domains\test-task-web-design-sun\wp-blog-header.php(19): require_once('W:\\domains\\test...')
+#2 W:\domains\test-task-web-design-sun\index.php(17): require('W:\\domains\\test...')
+#3 {main}
+  thrown in W:\domains\test-task-web-design-sun\wp-content\themes\handeny\woocommerce\single-product.php on line 9
+[21-Nov-2023 23:20:47 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_image_id() in W:\domains\test-task-web-design-sun\wp-content\themes\handeny\woocommerce\single-product.php:9
+Stack trace:
+#0 W:\domains\test-task-web-design-sun\wp-includes\template-loader.php(106): include()
+#1 W:\domains\test-task-web-design-sun\wp-blog-header.php(19): require_once('W:\\domains\\test...')
+#2 W:\domains\test-task-web-design-sun\index.php(17): require('W:\\domains\\test...')
+#3 {main}
+  thrown in W:\domains\test-task-web-design-sun\wp-content\themes\handeny\woocommerce\single-product.php on line 9
+[21-Nov-2023 23:21:54 UTC] PHP Notice:  Trying to get property 'ID' of non-object in W:\domains\test-task-web-design-sun\wp-content\themes\handeny\woocommerce\single-product.php on line 14
+[21-Nov-2023 23:25:03 UTC] PHP Notice:  Undefined variable: loop in W:\domains\test-task-web-design-sun\wp-content\themes\handeny\woocommerce\single-product.php on line 8
+[21-Nov-2023 23:25:03 UTC] PHP Notice:  Trying to get property 'post' of non-object in W:\domains\test-task-web-design-sun\wp-content\themes\handeny\woocommerce\single-product.php on line 8
+[21-Nov-2023 23:25:03 UTC] PHP Notice:  Trying to get property 'ID' of non-object in W:\domains\test-task-web-design-sun\wp-content\themes\handeny\woocommerce\single-product.php on line 8
+[21-Nov-2023 23:25:43 UTC] PHP Notice:  Undefined variable: loop in W:\domains\test-task-web-design-sun\wp-content\themes\handeny\woocommerce\single-product.php on line 7
+[21-Nov-2023 23:25:43 UTC] PHP Notice:  Trying to get property 'post' of non-object in W:\domains\test-task-web-design-sun\wp-content\themes\handeny\woocommerce\single-product.php on line 7
+[21-Nov-2023 23:25:43 UTC] PHP Notice:  Trying to get property 'ID' of non-object in W:\domains\test-task-web-design-sun\wp-content\themes\handeny\woocommerce\single-product.php on line 7
+[21-Nov-2023 23:25:51 UTC] PHP Notice:  Undefined variable: loop in W:\domains\test-task-web-design-sun\wp-content\themes\handeny\woocommerce\single-product.php on line 7
+[21-Nov-2023 23:25:51 UTC] PHP Notice:  Trying to get property 'post' of non-object in W:\domains\test-task-web-design-sun\wp-content\themes\handeny\woocommerce\single-product.php on line 7
+[21-Nov-2023 23:25:51 UTC] PHP Notice:  Trying to get property 'ID' of non-object in W:\domains\test-task-web-design-sun\wp-content\themes\handeny\woocommerce\single-product.php on line 7
+[21-Nov-2023 23:26:35 UTC] PHP Notice:  Undefined variable: loop in W:\domains\test-task-web-design-sun\wp-content\themes\handeny\woocommerce\single-product.php on line 7
+[21-Nov-2023 23:26:35 UTC] PHP Notice:  Trying to get property 'post' of non-object in W:\domains\test-task-web-design-sun\wp-content\themes\handeny\woocommerce\single-product.php on line 7
+[21-Nov-2023 23:26:35 UTC] PHP Notice:  Trying to get property 'ID' of non-object in W:\domains\test-task-web-design-sun\wp-content\themes\handeny\woocommerce\single-product.php on line 7
+[21-Nov-2023 23:26:40 UTC] PHP Notice:  Undefined variable: loop in W:\domains\test-task-web-design-sun\wp-content\themes\handeny\woocommerce\single-product.php on line 7
+[21-Nov-2023 23:26:40 UTC] PHP Notice:  Trying to get property 'post' of non-object in W:\domains\test-task-web-design-sun\wp-content\themes\handeny\woocommerce\single-product.php on line 7
+[21-Nov-2023 23:26:40 UTC] PHP Notice:  Trying to get property 'ID' of non-object in W:\domains\test-task-web-design-sun\wp-content\themes\handeny\woocommerce\single-product.php on line 7
+[21-Nov-2023 23:26:43 UTC] PHP Deprecated:  File Theme without sidebar.php is deprecated since version 3.0.0 with no alternative available. Please include a sidebar.php template in your theme. in W:\domains\test-task-web-design-sun\wp-includes\functions.php on line 6031
+[21-Nov-2023 23:26:46 UTC] PHP Notice:  Undefined variable: loop in W:\domains\test-task-web-design-sun\wp-content\themes\handeny\woocommerce\single-product.php on line 7
+[21-Nov-2023 23:26:46 UTC] PHP Notice:  Trying to get property 'post' of non-object in W:\domains\test-task-web-design-sun\wp-content\themes\handeny\woocommerce\single-product.php on line 7
+[21-Nov-2023 23:26:46 UTC] PHP Notice:  Trying to get property 'ID' of non-object in W:\domains\test-task-web-design-sun\wp-content\themes\handeny\woocommerce\single-product.php on line 7
+[21-Nov-2023 23:26:51 UTC] PHP Notice:  Undefined variable: loop in W:\domains\test-task-web-design-sun\wp-content\themes\handeny\woocommerce\single-product.php on line 7
+[21-Nov-2023 23:26:51 UTC] PHP Notice:  Trying to get property 'post' of non-object in W:\domains\test-task-web-design-sun\wp-content\themes\handeny\woocommerce\single-product.php on line 7
+[21-Nov-2023 23:26:51 UTC] PHP Notice:  Trying to get property 'ID' of non-object in W:\domains\test-task-web-design-sun\wp-content\themes\handeny\woocommerce\single-product.php on line 7
+[21-Nov-2023 23:26:54 UTC] PHP Notice:  Undefined variable: loop in W:\domains\test-task-web-design-sun\wp-content\themes\handeny\woocommerce\single-product.php on line 7
+[21-Nov-2023 23:26:54 UTC] PHP Notice:  Trying to get property 'post' of non-object in W:\domains\test-task-web-design-sun\wp-content\themes\handeny\woocommerce\single-product.php on line 7
+[21-Nov-2023 23:26:54 UTC] PHP Notice:  Trying to get property 'ID' of non-object in W:\domains\test-task-web-design-sun\wp-content\themes\handeny\woocommerce\single-product.php on line 7
+[21-Nov-2023 23:39:00 UTC] PHP Notice:  Undefined variable: loop in W:\domains\test-task-web-design-sun\wp-content\themes\handeny\woocommerce\single-product.php on line 7
+[21-Nov-2023 23:39:00 UTC] PHP Notice:  Trying to get property 'post' of non-object in W:\domains\test-task-web-design-sun\wp-content\themes\handeny\woocommerce\single-product.php on line 7
+[21-Nov-2023 23:39:00 UTC] PHP Notice:  Trying to get property 'ID' of non-object in W:\domains\test-task-web-design-sun\wp-content\themes\handeny\woocommerce\single-product.php on line 7
+[21-Nov-2023 23:39:08 UTC] PHP Notice:  Undefined variable: loop in W:\domains\test-task-web-design-sun\wp-content\themes\handeny\woocommerce\single-product.php on line 7
+[21-Nov-2023 23:39:08 UTC] PHP Notice:  Trying to get property 'post' of non-object in W:\domains\test-task-web-design-sun\wp-content\themes\handeny\woocommerce\single-product.php on line 7
+[21-Nov-2023 23:39:08 UTC] PHP Notice:  Trying to get property 'ID' of non-object in W:\domains\test-task-web-design-sun\wp-content\themes\handeny\woocommerce\single-product.php on line 7
+[22-Nov-2023 01:45:12 UTC] PHP Notice:  Function map_meta_cap was called incorrectly. The post type wpspaios_slider is not registered, so it may not be reliable to check the capability edit_post against a post of that type. Please see <a>Debugging in WordPress</a> for more information. (This message was added in version 4.4.0.) in W:\domains\test-task-web-design-sun\wp-includes\functions.php on line 6031
+[22-Nov-2023 01:46:20 UTC] PHP Notice:  Undefined variable: loop in W:\domains\test-task-web-design-sun\wp-content\themes\handeny\woocommerce\single-product.php on line 7
+[22-Nov-2023 01:46:20 UTC] PHP Notice:  Trying to get property 'post' of non-object in W:\domains\test-task-web-design-sun\wp-content\themes\handeny\woocommerce\single-product.php on line 7
+[22-Nov-2023 01:46:20 UTC] PHP Notice:  Trying to get property 'ID' of non-object in W:\domains\test-task-web-design-sun\wp-content\themes\handeny\woocommerce\single-product.php on line 7
+[22-Nov-2023 01:46:23 UTC] PHP Deprecated:  File Theme without sidebar.php is deprecated since version 3.0.0 with no alternative available. Please include a sidebar.php template in your theme. in W:\domains\test-task-web-design-sun\wp-includes\functions.php on line 6031
+[22-Nov-2023 02:23:49 UTC] PHP Notice:  Undefined variable: loop in W:\domains\test-task-web-design-sun\wp-content\themes\handeny\woocommerce\single-product.php on line 7
+[22-Nov-2023 02:23:49 UTC] PHP Notice:  Trying to get property 'post' of non-object in W:\domains\test-task-web-design-sun\wp-content\themes\handeny\woocommerce\single-product.php on line 7
+[22-Nov-2023 02:23:49 UTC] PHP Notice:  Trying to get property 'ID' of non-object in W:\domains\test-task-web-design-sun\wp-content\themes\handeny\woocommerce\single-product.php on line 7
+[22-Nov-2023 02:23:52 UTC] PHP Notice:  Undefined variable: loop in W:\domains\test-task-web-design-sun\wp-content\themes\handeny\woocommerce\single-product.php on line 7
+[22-Nov-2023 02:23:52 UTC] PHP Notice:  Trying to get property 'post' of non-object in W:\domains\test-task-web-design-sun\wp-content\themes\handeny\woocommerce\single-product.php on line 7
+[22-Nov-2023 02:23:52 UTC] PHP Notice:  Trying to get property 'ID' of non-object in W:\domains\test-task-web-design-sun\wp-content\themes\handeny\woocommerce\single-product.php on line 7
+[22-Nov-2023 02:23:56 UTC] PHP Notice:  Undefined variable: loop in W:\domains\test-task-web-design-sun\wp-content\themes\handeny\woocommerce\single-product.php on line 7
+[22-Nov-2023 02:23:56 UTC] PHP Notice:  Trying to get property 'post' of non-object in W:\domains\test-task-web-design-sun\wp-content\themes\handeny\woocommerce\single-product.php on line 7
+[22-Nov-2023 02:23:56 UTC] PHP Notice:  Trying to get property 'ID' of non-object in W:\domains\test-task-web-design-sun\wp-content\themes\handeny\woocommerce\single-product.php on line 7
+[22-Nov-2023 02:24:10 UTC] PHP Notice:  Undefined variable: loop in W:\domains\test-task-web-design-sun\wp-content\themes\handeny\woocommerce\single-product.php on line 7
+[22-Nov-2023 02:24:10 UTC] PHP Notice:  Trying to get property 'post' of non-object in W:\domains\test-task-web-design-sun\wp-content\themes\handeny\woocommerce\single-product.php on line 7
+[22-Nov-2023 02:24:10 UTC] PHP Notice:  Trying to get property 'ID' of non-object in W:\domains\test-task-web-design-sun\wp-content\themes\handeny\woocommerce\single-product.php on line 7
+[22-Nov-2023 02:24:13 UTC] PHP Notice:  Undefined variable: loop in W:\domains\test-task-web-design-sun\wp-content\themes\handeny\woocommerce\single-product.php on line 7
+[22-Nov-2023 02:24:13 UTC] PHP Notice:  Trying to get property 'post' of non-object in W:\domains\test-task-web-design-sun\wp-content\themes\handeny\woocommerce\single-product.php on line 7
+[22-Nov-2023 02:24:13 UTC] PHP Notice:  Trying to get property 'ID' of non-object in W:\domains\test-task-web-design-sun\wp-content\themes\handeny\woocommerce\single-product.php on line 7
+[22-Nov-2023 02:24:22 UTC] PHP Notice:  Undefined variable: loop in W:\domains\test-task-web-design-sun\wp-content\themes\handeny\woocommerce\single-product.php on line 7
+[22-Nov-2023 02:24:22 UTC] PHP Notice:  Trying to get property 'post' of non-object in W:\domains\test-task-web-design-sun\wp-content\themes\handeny\woocommerce\single-product.php on line 7
+[22-Nov-2023 02:24:22 UTC] PHP Notice:  Trying to get property 'ID' of non-object in W:\domains\test-task-web-design-sun\wp-content\themes\handeny\woocommerce\single-product.php on line 7
+[22-Nov-2023 02:24:36 UTC] PHP Notice:  Undefined variable: loop in W:\domains\test-task-web-design-sun\wp-content\themes\handeny\woocommerce\single-product.php on line 7
+[22-Nov-2023 02:24:36 UTC] PHP Notice:  Trying to get property 'post' of non-object in W:\domains\test-task-web-design-sun\wp-content\themes\handeny\woocommerce\single-product.php on line 7
+[22-Nov-2023 02:24:36 UTC] PHP Notice:  Trying to get property 'ID' of non-object in W:\domains\test-task-web-design-sun\wp-content\themes\handeny\woocommerce\single-product.php on line 7
+[22-Nov-2023 02:24:59 UTC] PHP Notice:  Undefined variable: loop in W:\domains\test-task-web-design-sun\wp-content\themes\handeny\woocommerce\single-product.php on line 7
+[22-Nov-2023 02:24:59 UTC] PHP Notice:  Trying to get property 'post' of non-object in W:\domains\test-task-web-design-sun\wp-content\themes\handeny\woocommerce\single-product.php on line 7
+[22-Nov-2023 02:24:59 UTC] PHP Notice:  Trying to get property 'ID' of non-object in W:\domains\test-task-web-design-sun\wp-content\themes\handeny\woocommerce\single-product.php on line 7
+[22-Nov-2023 02:25:23 UTC] PHP Notice:  Undefined variable: loop in W:\domains\test-task-web-design-sun\wp-content\themes\handeny\woocommerce\single-product.php on line 7
+[22-Nov-2023 02:25:23 UTC] PHP Notice:  Trying to get property 'post' of non-object in W:\domains\test-task-web-design-sun\wp-content\themes\handeny\woocommerce\single-product.php on line 7
+[22-Nov-2023 02:25:23 UTC] PHP Notice:  Trying to get property 'ID' of non-object in W:\domains\test-task-web-design-sun\wp-content\themes\handeny\woocommerce\single-product.php on line 7
+[22-Nov-2023 02:25:46 UTC] PHP Notice:  Undefined variable: loop in W:\domains\test-task-web-design-sun\wp-content\themes\handeny\woocommerce\single-product.php on line 7
+[22-Nov-2023 02:25:46 UTC] PHP Notice:  Trying to get property 'post' of non-object in W:\domains\test-task-web-design-sun\wp-content\themes\handeny\woocommerce\single-product.php on line 7
+[22-Nov-2023 02:25:46 UTC] PHP Notice:  Trying to get property 'ID' of non-object in W:\domains\test-task-web-design-sun\wp-content\themes\handeny\woocommerce\single-product.php on line 7
+[22-Nov-2023 02:25:50 UTC] PHP Notice:  Undefined variable: loop in W:\domains\test-task-web-design-sun\wp-content\themes\handeny\woocommerce\single-product.php on line 7
+[22-Nov-2023 02:25:50 UTC] PHP Notice:  Trying to get property 'post' of non-object in W:\domains\test-task-web-design-sun\wp-content\themes\handeny\woocommerce\single-product.php on line 7
+[22-Nov-2023 02:25:50 UTC] PHP Notice:  Trying to get property 'ID' of non-object in W:\domains\test-task-web-design-sun\wp-content\themes\handeny\woocommerce\single-product.php on line 7
+[22-Nov-2023 11:19:52 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/forums/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in W:\domains\test-task-web-design-sun\wp-includes\update.php on line 211
+[22-Nov-2023 11:45:43 UTC] PHP Notice:  Undefined variable: loop in W:\domains\test-task-web-design-sun\wp-content\themes\handeny\woocommerce\single-product.php on line 7
+[22-Nov-2023 11:45:43 UTC] PHP Notice:  Trying to get property 'post' of non-object in W:\domains\test-task-web-design-sun\wp-content\themes\handeny\woocommerce\single-product.php on line 7
+[22-Nov-2023 11:45:43 UTC] PHP Notice:  Trying to get property 'ID' of non-object in W:\domains\test-task-web-design-sun\wp-content\themes\handeny\woocommerce\single-product.php on line 7
+[23-Nov-2023 14:10:09 UTC] PHP Notice:  Array to string conversion in W:\domains\test-task-web-design-sun\wp-content\plugins\example-acf-carousel-block\blocks\carousel\render.php on line 36
+[23-Nov-2023 14:10:09 UTC] PHP Notice:  Array to string conversion in W:\domains\test-task-web-design-sun\wp-content\plugins\example-acf-carousel-block\blocks\carousel\render.php on line 36
+[23-Nov-2023 14:10:09 UTC] PHP Notice:  Array to string conversion in W:\domains\test-task-web-design-sun\wp-content\plugins\example-acf-carousel-block\blocks\carousel\render.php on line 36
+[23-Nov-2023 14:10:09 UTC] PHP Notice:  Array to string conversion in W:\domains\test-task-web-design-sun\wp-content\plugins\example-acf-carousel-block\blocks\carousel\render.php on line 36
+[23-Nov-2023 14:10:09 UTC] PHP Notice:  Array to string conversion in W:\domains\test-task-web-design-sun\wp-content\plugins\example-acf-carousel-block\blocks\carousel\render.php on line 36
+[23-Nov-2023 14:10:09 UTC] PHP Notice:  Array to string conversion in W:\domains\test-task-web-design-sun\wp-content\plugins\example-acf-carousel-block\blocks\carousel\render.php on line 36
+[23-Nov-2023 14:11:05 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type WP_Post as array in W:\domains\test-task-web-design-sun\wp-content\plugins\example-acf-carousel-block\blocks\carousel\render.php:26
+Stack trace:
+#0 W:\domains\test-task-web-design-sun\wp-content\plugins\advanced-custom-fields-pro\pro\blocks.php(676): include()
+#1 W:\domains\test-task-web-design-sun\wp-includes\class-wp-hook.php(324): acf_block_render_template()
+#2 W:\domains\test-task-web-design-sun\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters()
+#3 W:\domains\test-task-web-design-sun\wp-includes\plugin.php(517): WP_Hook->do_action()
+#4 W:\domains\test-task-web-design-sun\wp-content\plugins\advanced-custom-fields-pro\pro\blocks.php(650): do_action()
+#5 W:\domains\test-task-web-design-sun\wp-content\plugins\advanced-custom-fields-pro\pro\blocks.php(569): acf_render_block()
+#6 W:\domains\test-task-web-design-sun\wp-content\plugins\advanced-custom-fields-pro\pro\blocks.php(502): acf_rendered_block()
+#7 W:\domains\test-task-web-design-sun\wp-includes\class-wp in W:\domains\test-task-web-design-sun\wp-content\plugins\example-acf-carousel-block\blocks\carousel\render.php on line 26
+[23-Nov-2023 14:13:02 UTC] PHP Notice:  Undefined variable: categories in W:\domains\test-task-web-design-sun\wp-content\plugins\example-acf-carousel-block\blocks\carousel\render.php on line 26
+[23-Nov-2023 14:13:02 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_the_category() on null in W:\domains\test-task-web-design-sun\wp-content\plugins\example-acf-carousel-block\blocks\carousel\render.php:26
+Stack trace:
+#0 W:\domains\test-task-web-design-sun\wp-content\plugins\advanced-custom-fields-pro\pro\blocks.php(676): include()
+#1 W:\domains\test-task-web-design-sun\wp-includes\class-wp-hook.php(324): acf_block_render_template()
+#2 W:\domains\test-task-web-design-sun\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters()
+#3 W:\domains\test-task-web-design-sun\wp-includes\plugin.php(517): WP_Hook->do_action()
+#4 W:\domains\test-task-web-design-sun\wp-content\plugins\advanced-custom-fields-pro\pro\blocks.php(650): do_action()
+#5 W:\domains\test-task-web-design-sun\wp-content\plugins\advanced-custom-fields-pro\pro\blocks.php(569): acf_render_block()
+#6 W:\domains\test-task-web-design-sun\wp-content\plugins\advanced-custom-fields-pro\pro\blocks.php(502): acf_rendered_block()
+#7 W:\domains\test-task-web-design-sun\wp-include in W:\domains\test-task-web-design-sun\wp-content\plugins\example-acf-carousel-block\blocks\carousel\render.php on line 26
+[23-Nov-2023 14:13:55 UTC] PHP Notice:  Undefined variable: categories in W:\domains\test-task-web-design-sun\wp-content\plugins\example-acf-carousel-block\blocks\carousel\render.php on line 26
+[23-Nov-2023 14:13:55 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_the_category() on null in W:\domains\test-task-web-design-sun\wp-content\plugins\example-acf-carousel-block\blocks\carousel\render.php:26
+Stack trace:
+#0 W:\domains\test-task-web-design-sun\wp-content\plugins\advanced-custom-fields-pro\pro\blocks.php(676): include()
+#1 W:\domains\test-task-web-design-sun\wp-includes\class-wp-hook.php(324): acf_block_render_template()
+#2 W:\domains\test-task-web-design-sun\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters()
+#3 W:\domains\test-task-web-design-sun\wp-includes\plugin.php(517): WP_Hook->do_action()
+#4 W:\domains\test-task-web-design-sun\wp-content\plugins\advanced-custom-fields-pro\pro\blocks.php(650): do_action()
+#5 W:\domains\test-task-web-design-sun\wp-content\plugins\advanced-custom-fields-pro\pro\blocks.php(569): acf_render_block()
+#6 W:\domains\test-task-web-design-sun\wp-content\plugins\advanced-custom-fields-pro\pro\blocks.php(502): acf_rendered_block()
+#7 W:\domains\test-task-web-design-sun\wp-include in W:\domains\test-task-web-design-sun\wp-content\plugins\example-acf-carousel-block\blocks\carousel\render.php on line 26
+[23-Nov-2023 14:14:11 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_the_category() on array in W:\domains\test-task-web-design-sun\wp-content\plugins\example-acf-carousel-block\blocks\carousel\render.php:27
+Stack trace:
+#0 W:\domains\test-task-web-design-sun\wp-content\plugins\advanced-custom-fields-pro\pro\blocks.php(676): include()
+#1 W:\domains\test-task-web-design-sun\wp-includes\class-wp-hook.php(324): acf_block_render_template()
+#2 W:\domains\test-task-web-design-sun\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters()
+#3 W:\domains\test-task-web-design-sun\wp-includes\plugin.php(517): WP_Hook->do_action()
+#4 W:\domains\test-task-web-design-sun\wp-content\plugins\advanced-custom-fields-pro\pro\blocks.php(650): do_action()
+#5 W:\domains\test-task-web-design-sun\wp-content\plugins\advanced-custom-fields-pro\pro\blocks.php(569): acf_render_block()
+#6 W:\domains\test-task-web-design-sun\wp-content\plugins\advanced-custom-fields-pro\pro\blocks.php(502): acf_rendered_block()
+#7 W:\domains\test-task-web-design-sun\wp-includ in W:\domains\test-task-web-design-sun\wp-content\plugins\example-acf-carousel-block\blocks\carousel\render.php on line 27
+[23-Nov-2023 14:14:47 UTC] PHP Notice:  Undefined variable: category in W:\domains\test-task-web-design-sun\wp-content\plugins\example-acf-carousel-block\blocks\carousel\render.php on line 27
+[23-Nov-2023 14:14:47 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_the_category() on null in W:\domains\test-task-web-design-sun\wp-content\plugins\example-acf-carousel-block\blocks\carousel\render.php:27
+Stack trace:
+#0 W:\domains\test-task-web-design-sun\wp-content\plugins\advanced-custom-fields-pro\pro\blocks.php(676): include()
+#1 W:\domains\test-task-web-design-sun\wp-includes\class-wp-hook.php(324): acf_block_render_template()
+#2 W:\domains\test-task-web-design-sun\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters()
+#3 W:\domains\test-task-web-design-sun\wp-includes\plugin.php(517): WP_Hook->do_action()
+#4 W:\domains\test-task-web-design-sun\wp-content\plugins\advanced-custom-fields-pro\pro\blocks.php(650): do_action()
+#5 W:\domains\test-task-web-design-sun\wp-content\plugins\advanced-custom-fields-pro\pro\blocks.php(569): acf_render_block()
+#6 W:\domains\test-task-web-design-sun\wp-content\plugins\advanced-custom-fields-pro\pro\blocks.php(502): acf_rendered_block()
+#7 W:\domains\test-task-web-design-sun\wp-include in W:\domains\test-task-web-design-sun\wp-content\plugins\example-acf-carousel-block\blocks\carousel\render.php on line 27
+[23-Nov-2023 14:15:00 UTC] PHP Notice:  Undefined variable: category in W:\domains\test-task-web-design-sun\wp-content\plugins\example-acf-carousel-block\blocks\carousel\render.php on line 27
+[23-Nov-2023 14:15:00 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_the_category() on null in W:\domains\test-task-web-design-sun\wp-content\plugins\example-acf-carousel-block\blocks\carousel\render.php:27
+Stack trace:
+#0 W:\domains\test-task-web-design-sun\wp-content\plugins\advanced-custom-fields-pro\pro\blocks.php(676): include()
+#1 W:\domains\test-task-web-design-sun\wp-includes\class-wp-hook.php(324): acf_block_render_template()
+#2 W:\domains\test-task-web-design-sun\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters()
+#3 W:\domains\test-task-web-design-sun\wp-includes\plugin.php(517): WP_Hook->do_action()
+#4 W:\domains\test-task-web-design-sun\wp-content\plugins\advanced-custom-fields-pro\pro\blocks.php(650): do_action()
+#5 W:\domains\test-task-web-design-sun\wp-content\plugins\advanced-custom-fields-pro\pro\blocks.php(569): acf_render_block()
+#6 W:\domains\test-task-web-design-sun\wp-content\plugins\advanced-custom-fields-pro\pro\blocks.php(502): acf_rendered_block()
+#7 W:\domains\test-task-web-design-sun\wp-include in W:\domains\test-task-web-design-sun\wp-content\plugins\example-acf-carousel-block\blocks\carousel\render.php on line 27
+[23-Nov-2023 14:15:13 UTC] PHP Notice:  Undefined variable: category in W:\domains\test-task-web-design-sun\wp-content\plugins\example-acf-carousel-block\blocks\carousel\render.php on line 27
+[23-Nov-2023 14:15:43 UTC] PHP Notice:  Undefined variable: category in W:\domains\test-task-web-design-sun\wp-content\plugins\example-acf-carousel-block\blocks\carousel\render.php on line 27
+[23-Nov-2023 15:40:41 UTC] PHP Notice:  Trying to get property 'title' of non-object in W:\domains\test-task-web-design-sun\wp-includes\class-wp-customize-widgets.php on line 905
+[23-Nov-2023 15:51:01 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function the_widget(), 0 passed in W:\domains\test-task-web-design-sun\wp-content\themes\handeny\footer.php on line 2 and at least 1 expected in W:\domains\test-task-web-design-sun\wp-includes\widgets.php:1210
+Stack trace:
+#0 W:\domains\test-task-web-design-sun\wp-content\themes\handeny\footer.php(2): the_widget()
+#1 W:\domains\test-task-web-design-sun\wp-includes\template.php(790): require_once('W:\\domains\\test...')
+#2 W:\domains\test-task-web-design-sun\wp-includes\template.php(725): load_template()
+#3 W:\domains\test-task-web-design-sun\wp-includes\general-template.php(92): locate_template()
+#4 W:\domains\test-task-web-design-sun\wp-content\themes\handeny\front-page.php(5): get_footer()
+#5 W:\domains\test-task-web-design-sun\wp-includes\template-loader.php(106): include('W:\\domains\\test...')
+#6 W:\domains\test-task-web-design-sun\wp-blog-header.php(19): require_once('W:\\domains\\test...')
+#7 W:\domains\test-task-web-design-sun\index.php(17): require('W in W:\domains\test-task-web-design-sun\wp-includes\widgets.php on line 1210
+[23-Nov-2023 15:51:33 UTC] PHP Notice:  Function the_widget was called incorrectly. Widgets need to be registered using register_widget(), before they can be displayed. Please see <a>Debugging in WordPress</a> for more information. (This message was added in version 4.9.0.) in W:\domains\test-task-web-design-sun\wp-includes\functions.php on line 6031

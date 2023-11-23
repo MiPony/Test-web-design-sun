@@ -1,0 +1,77 @@
+2023-11-23T14:11:05+00:00 CRITICAL Uncaught Error: Cannot use object of type WP_Post as array in W:\domains\test-task-web-design-sun\wp-content\plugins\example-acf-carousel-block\blocks\carousel\render.php:26
+Stack trace:
+#0 W:\domains\test-task-web-design-sun\wp-content\plugins\advanced-custom-fields-pro\pro\blocks.php(676): include()
+#1 W:\domains\test-task-web-design-sun\wp-includes\class-wp-hook.php(324): acf_block_render_template()
+#2 W:\domains\test-task-web-design-sun\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters()
+#3 W:\domains\test-task-web-design-sun\wp-includes\plugin.php(517): WP_Hook->do_action()
+#4 W:\domains\test-task-web-design-sun\wp-content\plugins\advanced-custom-fields-pro\pro\blocks.php(650): do_action()
+#5 W:\domains\test-task-web-design-sun\wp-content\plugins\advanced-custom-fields-pro\pro\blocks.php(569): acf_render_block()
+#6 W:\domains\test-task-web-design-sun\wp-content\plugins\advanced-custom-fields-pro\pro\blocks.php(502): acf_rendered_block()
+#7 W:\domains\test-task-web-design-sun\wp-includes\class-wp in W:\domains\test-task-web-design-sun\wp-content\plugins\example-acf-carousel-block\blocks\carousel\render.php on line 26
+
+2023-11-23T14:13:02+00:00 CRITICAL Uncaught Error: Call to a member function get_the_category() on null in W:\domains\test-task-web-design-sun\wp-content\plugins\example-acf-carousel-block\blocks\carousel\render.php:26
+Stack trace:
+#0 W:\domains\test-task-web-design-sun\wp-content\plugins\advanced-custom-fields-pro\pro\blocks.php(676): include()
+#1 W:\domains\test-task-web-design-sun\wp-includes\class-wp-hook.php(324): acf_block_render_template()
+#2 W:\domains\test-task-web-design-sun\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters()
+#3 W:\domains\test-task-web-design-sun\wp-includes\plugin.php(517): WP_Hook->do_action()
+#4 W:\domains\test-task-web-design-sun\wp-content\plugins\advanced-custom-fields-pro\pro\blocks.php(650): do_action()
+#5 W:\domains\test-task-web-design-sun\wp-content\plugins\advanced-custom-fields-pro\pro\blocks.php(569): acf_render_block()
+#6 W:\domains\test-task-web-design-sun\wp-content\plugins\advanced-custom-fields-pro\pro\blocks.php(502): acf_rendered_block()
+#7 W:\domains\test-task-web-design-sun\wp-include in W:\domains\test-task-web-design-sun\wp-content\plugins\example-acf-carousel-block\blocks\carousel\render.php on line 26
+
+2023-11-23T14:13:55+00:00 CRITICAL Uncaught Error: Call to a member function get_the_category() on null in W:\domains\test-task-web-design-sun\wp-content\plugins\example-acf-carousel-block\blocks\carousel\render.php:26
+Stack trace:
+#0 W:\domains\test-task-web-design-sun\wp-content\plugins\advanced-custom-fields-pro\pro\blocks.php(676): include()
+#1 W:\domains\test-task-web-design-sun\wp-includes\class-wp-hook.php(324): acf_block_render_template()
+#2 W:\domains\test-task-web-design-sun\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters()
+#3 W:\domains\test-task-web-design-sun\wp-includes\plugin.php(517): WP_Hook->do_action()
+#4 W:\domains\test-task-web-design-sun\wp-content\plugins\advanced-custom-fields-pro\pro\blocks.php(650): do_action()
+#5 W:\domains\test-task-web-design-sun\wp-content\plugins\advanced-custom-fields-pro\pro\blocks.php(569): acf_render_block()
+#6 W:\domains\test-task-web-design-sun\wp-content\plugins\advanced-custom-fields-pro\pro\blocks.php(502): acf_rendered_block()
+#7 W:\domains\test-task-web-design-sun\wp-include in W:\domains\test-task-web-design-sun\wp-content\plugins\example-acf-carousel-block\blocks\carousel\render.php on line 26
+
+2023-11-23T14:14:11+00:00 CRITICAL Uncaught Error: Call to a member function get_the_category() on array in W:\domains\test-task-web-design-sun\wp-content\plugins\example-acf-carousel-block\blocks\carousel\render.php:27
+Stack trace:
+#0 W:\domains\test-task-web-design-sun\wp-content\plugins\advanced-custom-fields-pro\pro\blocks.php(676): include()
+#1 W:\domains\test-task-web-design-sun\wp-includes\class-wp-hook.php(324): acf_block_render_template()
+#2 W:\domains\test-task-web-design-sun\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters()
+#3 W:\domains\test-task-web-design-sun\wp-includes\plugin.php(517): WP_Hook->do_action()
+#4 W:\domains\test-task-web-design-sun\wp-content\plugins\advanced-custom-fields-pro\pro\blocks.php(650): do_action()
+#5 W:\domains\test-task-web-design-sun\wp-content\plugins\advanced-custom-fields-pro\pro\blocks.php(569): acf_render_block()
+#6 W:\domains\test-task-web-design-sun\wp-content\plugins\advanced-custom-fields-pro\pro\blocks.php(502): acf_rendered_block()
+#7 W:\domains\test-task-web-design-sun\wp-includ in W:\domains\test-task-web-design-sun\wp-content\plugins\example-acf-carousel-block\blocks\carousel\render.php on line 27
+
+2023-11-23T14:14:47+00:00 CRITICAL Uncaught Error: Call to a member function get_the_category() on null in W:\domains\test-task-web-design-sun\wp-content\plugins\example-acf-carousel-block\blocks\carousel\render.php:27
+Stack trace:
+#0 W:\domains\test-task-web-design-sun\wp-content\plugins\advanced-custom-fields-pro\pro\blocks.php(676): include()
+#1 W:\domains\test-task-web-design-sun\wp-includes\class-wp-hook.php(324): acf_block_render_template()
+#2 W:\domains\test-task-web-design-sun\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters()
+#3 W:\domains\test-task-web-design-sun\wp-includes\plugin.php(517): WP_Hook->do_action()
+#4 W:\domains\test-task-web-design-sun\wp-content\plugins\advanced-custom-fields-pro\pro\blocks.php(650): do_action()
+#5 W:\domains\test-task-web-design-sun\wp-content\plugins\advanced-custom-fields-pro\pro\blocks.php(569): acf_render_block()
+#6 W:\domains\test-task-web-design-sun\wp-content\plugins\advanced-custom-fields-pro\pro\blocks.php(502): acf_rendered_block()
+#7 W:\domains\test-task-web-design-sun\wp-include in W:\domains\test-task-web-design-sun\wp-content\plugins\example-acf-carousel-block\blocks\carousel\render.php on line 27
+
+2023-11-23T14:15:00+00:00 CRITICAL Uncaught Error: Call to a member function get_the_category() on null in W:\domains\test-task-web-design-sun\wp-content\plugins\example-acf-carousel-block\blocks\carousel\render.php:27
+Stack trace:
+#0 W:\domains\test-task-web-design-sun\wp-content\plugins\advanced-custom-fields-pro\pro\blocks.php(676): include()
+#1 W:\domains\test-task-web-design-sun\wp-includes\class-wp-hook.php(324): acf_block_render_template()
+#2 W:\domains\test-task-web-design-sun\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters()
+#3 W:\domains\test-task-web-design-sun\wp-includes\plugin.php(517): WP_Hook->do_action()
+#4 W:\domains\test-task-web-design-sun\wp-content\plugins\advanced-custom-fields-pro\pro\blocks.php(650): do_action()
+#5 W:\domains\test-task-web-design-sun\wp-content\plugins\advanced-custom-fields-pro\pro\blocks.php(569): acf_render_block()
+#6 W:\domains\test-task-web-design-sun\wp-content\plugins\advanced-custom-fields-pro\pro\blocks.php(502): acf_rendered_block()
+#7 W:\domains\test-task-web-design-sun\wp-include in W:\domains\test-task-web-design-sun\wp-content\plugins\example-acf-carousel-block\blocks\carousel\render.php on line 27
+
+2023-11-23T15:51:01+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function the_widget(), 0 passed in W:\domains\test-task-web-design-sun\wp-content\themes\handeny\footer.php on line 2 and at least 1 expected in W:\domains\test-task-web-design-sun\wp-includes\widgets.php:1210
+Stack trace:
+#0 W:\domains\test-task-web-design-sun\wp-content\themes\handeny\footer.php(2): the_widget()
+#1 W:\domains\test-task-web-design-sun\wp-includes\template.php(790): require_once('W:\\domains\\test...')
+#2 W:\domains\test-task-web-design-sun\wp-includes\template.php(725): load_template()
+#3 W:\domains\test-task-web-design-sun\wp-includes\general-template.php(92): locate_template()
+#4 W:\domains\test-task-web-design-sun\wp-content\themes\handeny\front-page.php(5): get_footer()
+#5 W:\domains\test-task-web-design-sun\wp-includes\template-loader.php(106): include('W:\\domains\\test...')
+#6 W:\domains\test-task-web-design-sun\wp-blog-header.php(19): require_once('W:\\domains\\test...')
+#7 W:\domains\test-task-web-design-sun\index.php(17): require('W in W:\domains\test-task-web-design-sun\wp-includes\widgets.php on line 1210
+

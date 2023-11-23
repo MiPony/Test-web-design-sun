@@ -1,0 +1,100 @@
+2023-11-21T10:32:56+00:00 CRITICAL Uncaught Error: Call to undefined function get_field() in W:\domains\test-task-web-design-sun\wp-content\themes\handeny\functions.php:53
+Stack trace:
+#0 W:\domains\test-task-web-design-sun\wp-includes\shortcodes.php(433): products_sliders_func()
+#1 [internal function]: do_shortcode_tag()
+#2 W:\domains\test-task-web-design-sun\wp-includes\shortcodes.php(273): preg_replace_callback()
+#3 W:\domains\test-task-web-design-sun\wp-includes\class-wp-hook.php(324): do_shortcode()
+#4 W:\domains\test-task-web-design-sun\wp-includes\plugin.php(205): WP_Hook->apply_filters()
+#5 W:\domains\test-task-web-design-sun\wp-includes\post-template.php(256): apply_filters()
+#6 W:\domains\test-task-web-design-sun\wp-content\themes\handeny\front-page.php(3): the_content()
+#7 W:\domains\test-task-web-design-sun\wp-includes\template-loader.php(106): include('W:\\domains\\test...')
+#8 W:\domains\test-task-web-design-sun\wp-blog-header.php(19): require_once('W:\\domains\\test...')
+#9 W:\domains\test-task-web-design-sun\index.php(17): requ in W:\domains\test-task-web-design-sun\wp-content\themes\handeny\functions.php on line 53
+
+2023-11-21T10:32:57+00:00 CRITICAL Uncaught Error: Call to undefined function get_field() in W:\domains\test-task-web-design-sun\wp-content\themes\handeny\functions.php:53
+Stack trace:
+#0 W:\domains\test-task-web-design-sun\wp-includes\shortcodes.php(433): products_sliders_func()
+#1 [internal function]: do_shortcode_tag()
+#2 W:\domains\test-task-web-design-sun\wp-includes\shortcodes.php(273): preg_replace_callback()
+#3 W:\domains\test-task-web-design-sun\wp-includes\class-wp-hook.php(324): do_shortcode()
+#4 W:\domains\test-task-web-design-sun\wp-includes\plugin.php(205): WP_Hook->apply_filters()
+#5 W:\domains\test-task-web-design-sun\wp-includes\rest-api\endpoints\class-wp-rest-revisions-controller.php(620): apply_filters()
+#6 W:\domains\test-task-web-design-sun\wp-includes\rest-api\endpoints\class-wp-rest-autosaves-controller.php(451): WP_REST_Revisions_Controller->prepare_item_for_response()
+#7 W:\domains\test-task-web-design-sun\wp-includes\rest-api\endpoints\class-wp-rest-autosaves-controller.php(253): WP_REST_Autosaves_Controller->prepare in W:\domains\test-task-web-design-sun\wp-content\themes\handeny\functions.php on line 53
+
+2023-11-21T21:52:38+00:00 CRITICAL Uncaught Error: Call to undefined function title() in W:\domains\test-task-web-design-sun\wp-content\themes\handeny\single-post.php:3
+Stack trace:
+#0 W:\domains\test-task-web-design-sun\wp-includes\template-loader.php(106): include()
+#1 W:\domains\test-task-web-design-sun\wp-blog-header.php(19): require_once('W:\\domains\\test...')
+#2 W:\domains\test-task-web-design-sun\index.php(17): require('W:\\domains\\test...')
+#3 {main}
+  thrown in W:\domains\test-task-web-design-sun\wp-content\themes\handeny\single-post.php on line 3
+
+2023-11-21T21:52:43+00:00 CRITICAL Uncaught Error: Call to undefined function get_title() in W:\domains\test-task-web-design-sun\wp-content\themes\handeny\single-post.php:3
+Stack trace:
+#0 W:\domains\test-task-web-design-sun\wp-includes\template-loader.php(106): include()
+#1 W:\domains\test-task-web-design-sun\wp-blog-header.php(19): require_once('W:\\domains\\test...')
+#2 W:\domains\test-task-web-design-sun\index.php(17): require('W:\\domains\\test...')
+#3 {main}
+  thrown in W:\domains\test-task-web-design-sun\wp-content\themes\handeny\single-post.php on line 3
+
+2023-11-21T23:07:52+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function wp_get_attachment_image(), 0 passed in W:\domains\test-task-web-design-sun\wp-content\themes\handeny\woocommerce\single-product.php on line 4 and at least 1 expected in W:\domains\test-task-web-design-sun\wp-includes\media.php:1047
+Stack trace:
+#0 W:\domains\test-task-web-design-sun\wp-content\themes\handeny\woocommerce\single-product.php(4): wp_get_attachment_image()
+#1 W:\domains\test-task-web-design-sun\wp-includes\template-loader.php(106): include('W:\\domains\\test...')
+#2 W:\domains\test-task-web-design-sun\wp-blog-header.php(19): require_once('W:\\domains\\test...')
+#3 W:\domains\test-task-web-design-sun\index.php(17): require('W:\\domains\\test...')
+#4 {main}
+  thrown in W:\domains\test-task-web-design-sun\wp-includes\media.php on line 1047
+
+2023-11-21T23:10:52+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function wc_get_products(), 0 passed in W:\domains\test-task-web-design-sun\wp-content\themes\handeny\woocommerce\single-product.php on line 5 and exactly 1 expected in W:\domains\test-task-web-design-sun\wp-content\plugins\woocommerce\includes\wc-product-functions.php:31
+Stack trace:
+#0 W:\domains\test-task-web-design-sun\wp-content\themes\handeny\woocommerce\single-product.php(5): wc_get_products()
+#1 W:\domains\test-task-web-design-sun\wp-includes\template-loader.php(106): include('W:\\domains\\test...')
+#2 W:\domains\test-task-web-design-sun\wp-blog-header.php(19): require_once('W:\\domains\\test...')
+#3 W:\domains\test-task-web-design-sun\index.php(17): require('W:\\domains\\test...')
+#4 {main}
+  thrown in W:\domains\test-task-web-design-sun\wp-content\plugins\woocommerce\includes\wc-product-functions.php on line 31
+
+2023-11-21T23:11:19+00:00 CRITICAL Uncaught Error: Call to a member function get_image() on string in W:\domains\test-task-web-design-sun\wp-content\plugins\woocommerce\includes\wc-template-functions.php:1449
+Stack trace:
+#0 W:\domains\test-task-web-design-sun\wp-content\themes\handeny\woocommerce\single-product.php(5): woocommerce_get_product_thumbnail()
+#1 W:\domains\test-task-web-design-sun\wp-includes\template-loader.php(106): include('W:\\domains\\test...')
+#2 W:\domains\test-task-web-design-sun\wp-blog-header.php(19): require_once('W:\\domains\\test...')
+#3 W:\domains\test-task-web-design-sun\index.php(17): require('W:\\domains\\test...')
+#4 {main}
+  thrown in W:\domains\test-task-web-design-sun\wp-content\plugins\woocommerce\includes\wc-template-functions.php on line 1449
+
+2023-11-21T23:11:32+00:00 CRITICAL Uncaught Error: Call to a member function get_image() on string in W:\domains\test-task-web-design-sun\wp-content\plugins\woocommerce\includes\wc-template-functions.php:1449
+Stack trace:
+#0 W:\domains\test-task-web-design-sun\wp-content\themes\handeny\woocommerce\single-product.php(5): woocommerce_get_product_thumbnail()
+#1 W:\domains\test-task-web-design-sun\wp-includes\template-loader.php(106): include('W:\\domains\\test...')
+#2 W:\domains\test-task-web-design-sun\wp-blog-header.php(19): require_once('W:\\domains\\test...')
+#3 W:\domains\test-task-web-design-sun\index.php(17): require('W:\\domains\\test...')
+#4 {main}
+  thrown in W:\domains\test-task-web-design-sun\wp-content\plugins\woocommerce\includes\wc-template-functions.php on line 1449
+
+2023-11-21T23:19:28+00:00 CRITICAL Uncaught Error: Call to a member function get_image_id() on string in W:\domains\test-task-web-design-sun\wp-content\themes\handeny\woocommerce\single-product.php:8
+Stack trace:
+#0 W:\domains\test-task-web-design-sun\wp-includes\template-loader.php(106): include()
+#1 W:\domains\test-task-web-design-sun\wp-blog-header.php(19): require_once('W:\\domains\\test...')
+#2 W:\domains\test-task-web-design-sun\index.php(17): require('W:\\domains\\test...')
+#3 {main}
+  thrown in W:\domains\test-task-web-design-sun\wp-content\themes\handeny\woocommerce\single-product.php on line 8
+
+2023-11-21T23:20:34+00:00 CRITICAL Uncaught Error: Call to a member function get_image_id() on string in W:\domains\test-task-web-design-sun\wp-content\themes\handeny\woocommerce\single-product.php:9
+Stack trace:
+#0 W:\domains\test-task-web-design-sun\wp-includes\template-loader.php(106): include()
+#1 W:\domains\test-task-web-design-sun\wp-blog-header.php(19): require_once('W:\\domains\\test...')
+#2 W:\domains\test-task-web-design-sun\index.php(17): require('W:\\domains\\test...')
+#3 {main}
+  thrown in W:\domains\test-task-web-design-sun\wp-content\themes\handeny\woocommerce\single-product.php on line 9
+
+2023-11-21T23:20:47+00:00 CRITICAL Uncaught Error: Call to undefined function get_image_id() in W:\domains\test-task-web-design-sun\wp-content\themes\handeny\woocommerce\single-product.php:9
+Stack trace:
+#0 W:\domains\test-task-web-design-sun\wp-includes\template-loader.php(106): include()
+#1 W:\domains\test-task-web-design-sun\wp-blog-header.php(19): require_once('W:\\domains\\test...')
+#2 W:\domains\test-task-web-design-sun\index.php(17): require('W:\\domains\\test...')
+#3 {main}
+  thrown in W:\domains\test-task-web-design-sun\wp-content\themes\handeny\woocommerce\single-product.php on line 9
+

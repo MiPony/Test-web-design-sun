@@ -1,0 +1,6 @@
+2023-11-20T17:24:45+00:00 CRITICAL Cannot redeclare products_sliders_func() (previously declared in W:\domains\test-task-web-design-sun\wp-content\themes\handeny\functions.php:50) in W:\domains\test-task-web-design-sun\wp-content\themes\handeny\front-page.php on line 5
+
+2023-11-20T17:46:36+00:00 CRITICAL syntax error, unexpected ',', expecting ';' in W:\domains\test-task-web-design-sun\wp-content\themes\handeny\functions.php on line 59
+
+2023-11-20T17:46:36+00:00 CRITICAL syntax error, unexpected ',', expecting ';' in W:\domains\test-task-web-design-sun\wp-content\themes\handeny\functions.php on line 59
+
