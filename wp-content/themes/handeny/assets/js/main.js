@@ -1,4 +1,5 @@
 window.addEventListener('load',()=>{
+
     document.addEventListener('click',()=>{
         let search_input = document.querySelector('.wp-block-search__input'),
             nav_menu = document.querySelector('.navbar-nav'),
