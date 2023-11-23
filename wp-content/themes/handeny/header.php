@@ -24,5 +24,9 @@
                         'items_wrap'           => '<ul id="%1$s" class="%2$s">%3$s</ul>',
                     ]); 
                 ?>
+                <div class="login-register">
+                    <span>Login / Register</span>
+                </div>
+                <?php dynamic_sidebar('Mini cart'); ?>
             </div>
         </header>

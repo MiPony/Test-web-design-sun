@@ -33,8 +33,7 @@ add_action( 'wp_enqueue_scripts', 'handany_scripts' );
 
 function register_handany_menus() {
     $locations = array(
-        'header-menu' => __( 'Header Menu' ),
-        'footer-menu' => __( 'Footer Menu' )
+        'header-menu' => __( 'Header Menu' )
     );
     
     register_nav_menus($locations);
@@ -58,6 +57,16 @@ function true_register_wp_sidebars() {
 		array(
 			'id' => 'true_foot',
 			'name' => 'Footer',
+			'before_widget' => '<div id="%1$s" class="foot widget %2$s">',
+			'after_widget' => '</div>',
+			'before_title' => '<h3 class="widget-title">',
+			'after_title' => '</h3>'
+		)
+	);
+    register_sidebar(
+		array(
+			'id' => 'mini-cart',
+			'name' => 'Mini cart',
 			'before_widget' => '<div id="%1$s" class="foot widget %2$s">',
 			'after_widget' => '</div>',
 			'before_title' => '<h3 class="widget-title">',
