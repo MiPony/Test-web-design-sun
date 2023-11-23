@@ -1,5 +1,48 @@
-.wp-block-acf-carousel{
+@font-face {
+    font-family: 'Marcellus';
+    src: url('fonts/Marcellus-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
 
+@font-face {
+    font-family: 'Lora';
+    src: url('fonts/Lora-Italic-VariableFont_wght.ttf') format('truetype'),
+         url('fonts/Lora-VariableFont_wght.ttf') format('truetype'),
+         url('fonts/static/Lora-Bold.ttf') format('truetype'),
+         url('fonts/static/Lora-BoldItalic.ttf') format('truetype'),
+         url('fonts/static/Lora-Italic.ttf') format('truetype'),
+         url('fonts/static/Lora-Medium.ttf') format('truetype'),
+         url('fonts/static/Lora-MediumItalic.ttf') format('truetype'),
+         url('fonts/static/Lora-SemiBold.ttf') format('truetype'),
+         url('fonts/static/Lora-SemiBoldItalic.ttf') format('truetype'),
+         url('fonts/static/Lora-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+.wp-block-acf-carousel{
+    background-color: #F4F4F4;
+    padding: 0 15% 50px;
+}
+
+.flickity-button{
+	background-color: transparent !important;
+}
+
+.flickity-prev-next-button.previous{
+	left: -2% !important;
+	color: #777777;
+}
+
+.flickity-prev-next-button.next{
+	right: -3.5% !important;
+	color: #777777;
+}
+
+.flickity-button-icon{
+	width: 30% !important;
+    height: 30% !important;
 }
 
 .wp-block-acf-carousel--item{
@@ -12,6 +55,155 @@
 .wp-block-acf-carousel--item picture{
 	max-width:100%;
 	height: auto;
+}
+
+.flickity-page-dots{
+	display: none;
+}
+
+.carousel-image-posts{
+	align-items: center;
+    background-position: 50%;
+    box-sizing: border-box;
+    display: flex;
+    justify-content: center;
+    min-height: 250px;
+    overflow: hidden;
+    overflow: clip;
+    position: relative;
+}
+
+.carousel-block-image-category-post{
+	z-index: 2;
+}
+
+.date-post{
+    position: absolute;
+    left: 15px;
+    top: 15px;
+    z-index: 9;
+	background-color: #fff;
+	padding: 5px 10px;
+	display: flex;
+	flex-direction: column;
+}
+
+.number-date-post{
+	color: var(--Dark, #242424);
+	text-align: center;
+	font-family: 'Lora-Regular';
+	font-size: 24px;
+	font-style: normal;
+	font-weight: 400;
+	line-height: 25px;
+}
+
+.month-date-post{
+	color: var(--Dark, #242424);
+	text-align: center;
+	font-family: 'Lora-Regular';
+	font-size: 13px;
+	font-style: normal;
+	font-weight: 400;
+	line-height: 15px;
+}
+
+.carousel-image-posts img{
+	border: none;
+    bottom: 0;
+    box-shadow: none;
+    height: 100%;
+    left: 0;
+    margin: 0;
+    max-height: none;
+    max-width: none;
+    object-fit: cover;
+    outline: none;
+    padding: 0;
+    position: absolute;
+    right: 0;
+    top: 0;
+    width: 100%;
+	z-index: 2;
+}
+
+.category-post{
+	position: relative;
+	top: -12px;
+    z-index: 11;
+}
+
+.category-post div{
+	display: flex;
+	justify-content: center;
+	margin: 0 25%;
+	background-color: #C3935B;
+	padding: 0 10px;
+}
+
+.category-post span{
+	color: #FFF;
+	text-align: center;
+	font-family: Lora;
+	font-size: 12px;
+	font-style: normal;
+	font-weight: 400;
+	line-height: 25px;
+	text-transform: uppercase;
+}
+
+.title-post{
+	color: #000;
+	text-align: center;
+	font-family: Marcellus;
+	font-size: 24px;
+	font-style: normal;
+	font-weight: 400;
+	line-height: 35px;
+	text-transform: uppercase;
+}
+
+.author-post{
+	text-align: center;
+	padding-bottom: 10px;
+}
+
+.author-post img{
+	vertical-align: bottom;
+}
+
+.author-post span{
+	color: rgba(119, 119, 119, 0.50);
+	font-family: 'Lora-Regular';
+	font-size: 14px;
+	font-style: normal;
+	font-weight: 400;
+	line-height: 20px;
+}
+
+.desc-post a p{
+	color: var(--Dark-Light, #777);
+	text-align: center;
+	font-family: 'Lora-Regular';
+	font-size: 14px;
+	font-style: normal;
+	font-weight: 400;
+	line-height: 25px;
+}
+
+.link-post{
+	text-align: center;
+	padding-top: 20px;
+}
+
+.link-post a{
+	color: var(--Gold, #C3935B);
+	font-family: Lora;
+	font-size: 14px;
+	font-style: normal;
+	font-weight: 500;
+	line-height: 25px;
+	text-transform: uppercase;
 }
 
 @media screen and (min-width: 768px) {
