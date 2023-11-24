@@ -422,11 +422,15 @@ a:focus{
     padding: 0;
 }
 
+#main-fifth-block #left-block-first-slider div{
+    top: 0;
+}
+
 #main-fifth-block-title-offer{
     color: var(--Dark, #242424);
-    font-family: Lora;
+    font-family: 'Lora';
     font-size: 22px;
-    font-style: italic;
+    font-style: italic !important;
     font-weight: 500;
     line-height: 25px;
     margin-left: 45% !important;
@@ -445,6 +449,17 @@ a:focus{
     font-style: normal;
     font-weight: 400;
     line-height: 65px;
+}
+
+#main-fifth-block-name-offer{
+    color: var(--Dark, #242424);
+    font-family: Marcellus;
+    font-size: 54px !important;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 65px;
+    text-transform: uppercase;
+    margin-left: 45% !important;
 }
 
 #main-fifth-block-desc-offer{
@@ -630,7 +645,7 @@ a:focus{
 }
 
 .wc-block-mini-cart__button{
-    min-width: 150px;
+    min-width: 120px;
     position: relative;
     display: flex;
     justify-content: flex-start;
@@ -860,3 +875,32 @@ a:focus{
     background: #956a39;
     transform: translate(0.10em, 0.10em);
 }
+
+@media (min-width: 640px) {
+	#main-first-block,
+    #main-second-block #block-first-slider,
+    #main-third-block,
+    #main-fourth-block,
+    #main-fifth-block{
+        display: flex;
+        flex-wrap: wrap;
+    }
+
+    .wp-block-search__button-behavior-expand .wp-block-search__input{
+        width: 300px;
+    }
+}
+
+@media (min-width: 1200px) {
+	#main-first-block,
+    #main-second-block #block-first-slider,
+    #main-third-block,
+    #main-fourth-block,
+    #main-fifth-block{
+        flex-wrap: nowrap;
+    }
+
+    .wp-block-search__button-behavior-expand .wp-block-search__input{
+        width: 600px;
+    }
+}  

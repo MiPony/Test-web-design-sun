@@ -37,18 +37,18 @@ $posts_field = get_field( 'posts' );
 						</a>
 						<div class="category-post">
 							<div>
-									<span>
-										<?php
-											$categories = get_the_category( $post );
-											if( $categories ){
-												foreach( $categories as $category ) {
-													echo $category->cat_name;
-												}
+								<span>
+									<?php
+										$categories = get_the_category( $post );
+										if( $categories ){
+											foreach( $categories as $category ) {
+												echo $category->cat_name;
 											}
-										?>
-									</span>
-								</div>
+										}
+									?>
+								</span>
 							</div>
+						</div>
 					</div>
 					<h2 class="title-post">
 						<a href="<?php echo esc_url( get_the_permalink() ); ?>"><?php echo wp_kses_post( get_the_title() ); ?></a>
