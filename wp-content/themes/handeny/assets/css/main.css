@@ -71,10 +71,6 @@ a:focus{
     font-weight: 400;
     line-height: 10px;
 }
-.navbar-nav li:hover{
-    border-bottom: 1px solid #fff;
-    transition: .5s;
-}
 
 .login-register{
     margin: 15px 15px; 
@@ -872,8 +868,56 @@ a:focus{
 }
 
 .product.woocommerce.add_to_cart_inline a:hover{
-    background: #956a39;
+    background: #fff;
     transform: translate(0.10em, 0.10em);
+}
+
+.elements-wrapper{
+    position: relative;
+}
+
+.woocommerce.wcps-items-cart{
+    position: absolute;
+    top: 55%;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.woocommerce.wcps-items-cart p{
+    visibility: hidden;
+    opacity: 0;
+    background-color: #fff;
+    width: 33%;
+    padding: 10px 20px;
+    box-shadow: 0.3em 0.3em 1em rgba(0, 0, 0, 0.3);
+}
+
+.woocommerce .product .add_to_cart_button.button{ 
+    background-image: url('http://test-task-web-design-sun/wp-content/uploads/2023/11/Property-1Cart-Clear.png');
+    background-repeat: no-repeat;
+    width: 10px;
+    height: 10px;
+    margin-left: 5px;
+}
+
+.woocommerce .product .add_to_cart_button.button:hover{
+    background-image: url('http://test-task-web-design-sun/wp-content/uploads/2023/11/Property-1Cart-Clear-Hover.png'); 
+    background-repeat: no-repeat; 
+}
+
+#mega-menu-wrap-header-menu #mega-menu-header-menu > li.mega-menu-megamenu > ul.mega-sub-menu{
+    width: 120%;
+    padding: 30px 20px 20px 20px;
+}
+
+#mega-menu-wrap-header-menu #mega-menu-header-menu > li.mega-menu-megamenu > ul.mega-sub-menu > li.mega-menu-item > a.mega-menu-link, #mega-menu-wrap-header-menu #mega-menu-header-menu > li.mega-menu-megamenu > ul.mega-sub-menu li.mega-menu-column > ul.mega-sub-menu > li.mega-menu-item > a.mega-menu-link{
+    color: #000;
+}
+
+#mega-menu-wrap-header-menu #mega-menu-header-menu > li.mega-menu-item > a.mega-menu-link:hover{
+    text-decoration: underline;
 }
 
 @media (min-width: 640px) {
@@ -903,4 +947,4 @@ a:focus{
     .wp-block-search__button-behavior-expand .wp-block-search__input{
         width: 600px;
     }
-}  
+}

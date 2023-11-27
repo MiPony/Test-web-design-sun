@@ -13,15 +13,7 @@
                 ?>
                 <?php 
                     wp_nav_menu( [
-                        'theme_location'       => 'header-menu',
-                        'container'            => false,
-                        'menu'                 => true,
-                        'menu_class'           => 'navbar-nav',
-                        'menu_id'              => false,
-                        'echo'                 => true,
-                        'before'               => '',
-                        'after'                => '',
-                        'items_wrap'           => '<ul id="%1$s" class="%2$s">%3$s</ul>',
+                        'theme_location' => 'header-menu'
                     ]); 
                 ?>
                 <div class="login-register">

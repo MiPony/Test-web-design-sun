@@ -40,13 +40,6 @@ function register_handany_menus() {
 }
 add_action( 'init', 'register_handany_menus' );
 
-add_filter( 'nav_menu_css_class', 'custom_nav_menu_class', 10, 1 );
-function custom_nav_menu_class( $classes ) {
-    $classes[] = 'nav-item';
-
-    return $classes;
-}
-
 add_action( 'after_setup_theme', 'woocommerce_support' );
 function woocommerce_support() {
    add_theme_support( 'woocommerce' );
@@ -75,3 +68,9 @@ function true_register_wp_sidebars() {
 	);
 }
 add_action( 'widgets_init', 'true_register_wp_sidebars' );
+
+// To change add to cart text on product
+add_filter( 'woocommerce_product_add_to_cart_text', 'woocommerce_custom_product_add_to_cart_text' );  
+function woocommerce_custom_product_add_to_cart_text() {
+    return __( '', 'woocommerce' ); 
+}
